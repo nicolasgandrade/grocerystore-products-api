@@ -15,6 +15,7 @@ import java.util.Set;
 @NoArgsConstructor
 @EqualsAndHashCode
 @Entity
+@Table(name = "tb_section")
 public class Section {
 
     @Id

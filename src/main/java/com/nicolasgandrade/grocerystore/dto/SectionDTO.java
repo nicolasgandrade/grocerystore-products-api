@@ -15,7 +15,7 @@ import java.util.Set;
 public class SectionDTO implements Serializable {
 
     private String name;
-    
+
     public SectionDTO(Section section) {
         this.name = section.getName();
     }

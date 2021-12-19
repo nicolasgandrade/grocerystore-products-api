@@ -15,6 +15,7 @@ import javax.persistence.*;
 @AllArgsConstructor
 @EqualsAndHashCode
 @Entity
+@Table(name = "tb_product")
 public class Product {
 
     @Id
