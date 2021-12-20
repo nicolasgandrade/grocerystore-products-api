@@ -5,7 +5,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## :point_right: About
-This is an API rest made to be consumed by other services (as a stock manager, sells manager etc...) that list products and its sections.
+This is an API rest made to be consumed by other services (as a stock manager, sales manager etc...) that list products and its sections.
 
 ## :point_down: Heroku deploy
 https://grocerystore-products.herokuapp.com/
